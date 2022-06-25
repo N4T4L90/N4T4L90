@@ -14,7 +14,7 @@
 </a>
 
   <img alt="GIF" align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="120rem" style="max-width:100%;"> 
-  ##
+  
  
 <div> 
   <a href="https://www.instagram.com/natalino_90/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
